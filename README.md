@@ -1,4 +1,5 @@
-<html><head>
+<html>
+	<head>
 	<title>info</title>
 	<style>
 		html, body { 
@@ -62,4 +63,5 @@
 		https://github.com/arceus08c/coding.git
 	</div>
 
-</body></html>
+</body>
+</html>
